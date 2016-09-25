@@ -15,11 +15,7 @@ function pairElement(str) {
    return pair;
   });
   
-  console.log(str);
-  console.log(dna);
-  
-  
-  return str;
+  return dna;
   
 }
 
